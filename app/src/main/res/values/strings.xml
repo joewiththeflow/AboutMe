@@ -2,4 +2,16 @@
     <string name="app_name">About Me</string>
     <string name="wee_dog">Wee Dog</string>
     <string name="yellow_star">Yellow star</string>
+    <string name="bio">"Hi, I'm a wee dog!
+        \nI love fish.
+        \nThe kind that is alive and swims around in a river or an aquarium, or a lake, and definitely the ocean.
+        \nI wish I had some aquariums and a river!.
+        \nI love eating fish too! Unless it is mixed with dog meat! :-(
+        \nI would love to try and catch fish!
+        \nI would like to do a lot of things actually, especially if it involves biting people!
+        \nI love waking people up but only when I decide!
+        \nI know things!
+        \n I eat things!
+        \n Oh aye, and if you've got something, I want it!"
+    </string>
 </resources>
